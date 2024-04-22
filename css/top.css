@@ -1,0 +1,50 @@
+.main {
+  font-family: 'Times New Roman', Times, serif;
+}
+.main-top .users{
+  padding-bottom: 5px;
+  padding-left: 700px;
+  font-size: medium;
+}
+.main-top .users .out ul{
+  padding: 4px 50px;
+  border: #2585da 1px solid;
+  border-radius: 10px;
+}
+.main-top {
+  padding: 10px 10px;
+  margin-bottom: 20px;
+}
+.main-top .logo{
+  display: flex;
+  align-items: center
+}
+.main-top h1 {
+  padding-left: 10px;
+  font-size: 50px;
+  margin: 0 0;
+}
+.main-top img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+nav ul { 
+  display: flex;
+  align-items: center;
+  list-style: none;
+  border: 2px solid #2585da;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  margin: 10px 20px;
+}
+nav ul:hover{
+  background-color: #2585da;
+  color: white;
+}
+.nav-tabs {
+  padding: 0 10px;
+}
