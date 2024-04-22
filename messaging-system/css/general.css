@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap");
+:root {
+  --primary: #eeeeee;
+  --white: #fff;
+  --black: #393e46;
+  --shadow: 0px 2px 8px 0px var(--secondary-light);
+}
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+  }
+body {
+    background: #f3f3f3;
+    color: black;
+}
+.wrap{
+  width: 95%;
+  padding-left: 3px;
+}
+.container{
+  position: relative;
+  padding: 6px; 
+  width: 100%;
+  margin: 10px;
+}
+.panel-heading{
+  background: #9da9b9;
+  margin-top: 5px;
+  border-radius: 10px
+}
+table.dataTable{
+  background: #2585da;
+  color: black;
+  clear:both;
+  margin-top:6px !important;
+  margin-bottom:6px !important;
+  max-width:none !important;
+  border-radius: 10px;
+}
