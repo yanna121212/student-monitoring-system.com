@@ -1,1 +1,1 @@
-# student-monitoring-system.com
+# student-monitoring-system.com/index.php/
